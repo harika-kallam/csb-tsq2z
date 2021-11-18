@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "https://harika-kallam.github.io/csb-tsq2z/static/css/main.b545a8bc.chunk.css",
+    "main.js": "https://harika-kallam.github.io/csb-tsq2z/static/js/main.bec5ae32.chunk.js",
+    "main.js.map": "https://harika-kallam.github.io/csb-tsq2z/static/js/main.bec5ae32.chunk.js.map",
+    "runtime-main.js": "https://harika-kallam.github.io/csb-tsq2z/static/js/runtime-main.1bf515ab.js",
+    "runtime-main.js.map": "https://harika-kallam.github.io/csb-tsq2z/static/js/runtime-main.1bf515ab.js.map",
+    "static/css/2.d8cc838b.chunk.css": "https://harika-kallam.github.io/csb-tsq2z/static/css/2.d8cc838b.chunk.css",
+    "static/js/2.047f7a91.chunk.js": "https://harika-kallam.github.io/csb-tsq2z/static/js/2.047f7a91.chunk.js",
+    "static/js/2.047f7a91.chunk.js.map": "https://harika-kallam.github.io/csb-tsq2z/static/js/2.047f7a91.chunk.js.map",
+    "index.html": "https://harika-kallam.github.io/csb-tsq2z/index.html",
+    "static/css/2.d8cc838b.chunk.css.map": "https://harika-kallam.github.io/csb-tsq2z/static/css/2.d8cc838b.chunk.css.map",
+    "static/css/main.b545a8bc.chunk.css.map": "https://harika-kallam.github.io/csb-tsq2z/static/css/main.b545a8bc.chunk.css.map",
+    "static/js/2.047f7a91.chunk.js.LICENSE.txt": "https://harika-kallam.github.io/csb-tsq2z/static/js/2.047f7a91.chunk.js.LICENSE.txt",
+    "static/media/Bali.56b6f2f5.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Bali.56b6f2f5.jfif",
+    "static/media/Dubai.6862b1e5.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Dubai.6862b1e5.jfif",
+    "static/media/Kerala.b6cba1be.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Kerala.b6cba1be.jfif",
+    "static/media/Maldives.1dc45d31.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Maldives.1dc45d31.jfif",
+    "static/media/Paris.6988a8ec.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Paris.6988a8ec.jfif",
+    "static/media/Singapore.0f069bfc.jfif": "https://harika-kallam.github.io/csb-tsq2z/static/media/Singapore.0f069bfc.jfif",
+    "static/media/imagess.e47fc33a.jpg": "https://harika-kallam.github.io/csb-tsq2z/static/media/imagess.e47fc33a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bf515ab.js",
+    "static/css/2.d8cc838b.chunk.css",
+    "static/js/2.047f7a91.chunk.js",
+    "static/css/main.b545a8bc.chunk.css",
+    "static/js/main.bec5ae32.chunk.js"
+  ]
+}
